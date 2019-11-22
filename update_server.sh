@@ -8,6 +8,6 @@ echo "Pulled successfully from master"
 
 echo "Restarting server..."
 
-#pm2 start bin/www
+# run here any command we need to restart the server
 
 echo "Server restarted Successfully"
